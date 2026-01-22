@@ -1,6 +1,6 @@
 # NewsPulsar
 
-NewsScan is a web application that allows users to fetch news articles, summarize them, and perform sentiment analysis. The app is built with a Flask backend and a React frontend.
+NewsPulsar is a web application that allows users to fetch news articles, summarize them, and perform sentiment analysis. The app is built with a Flask backend and a React frontend.
 
 ## Features
 - **Fetch News**: Retrieve news articles based on a search query using a news API.
